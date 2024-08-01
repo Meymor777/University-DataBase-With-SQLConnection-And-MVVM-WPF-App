@@ -1,0 +1,11 @@
+COURSE_ID,NAME,DESCRIPTION
+{3B3E53FA-402D-4A23-8FA7-27A0FE4E2A79},Introduction to Python Programming,A beginner-friendly course covering Python basics such as data types control structures functions and introductory concepts in object-oriented programming.
+{C6A49B95-8E7A-4E58-B6B9-32A30A3CAB1B},Web Development Fundamentals,Learn the essentials of web development including HTML CSS and JavaScript to create interactive and visually appealing websites.
+{3A2C392C-8D48-4C72-8AA4-2C49A6E3E9EB},Database Management with SQL,Master the fundamentals of SQL (Structured Query Language) for managing and querying relational databases efficiently.
+{A5D32F8A-3A64-4F15-94B0-FEC0491C7D08},Cybersecurity Essentials,Understand the fundamentals of cybersecurity including threat detection risk assessment encryption and best practices for securing networks and systems.
+{E997C9B8-7D56-4F2D-8A9E-3345F60E82F4},Introduction to Data Science,An introductory course covering the basics of data manipulation visualization and analysis using Python libraries such as NumPy Pandas and Matplotlib.
+{CE889F75-FC9E-4391-8361-7F0558F75746},Machine Learning Fundamentals,Learn the core concepts of machine learning including supervised and unsupervised learning classification regression and model evaluation.
+{A8B7D0D0-9C24-4B26-8D48-6219E9C50714},Network Administration Basics,Get acquainted with the basics of network administration including TCP/IP protocols network security troubleshooting and configuration of routers and switches.
+{ABCFE4A5-6D0C-4FCE-A1AF-3F2C6B94E6A5},Cloud Computing Fundamentals,Understand the fundamentals of cloud computing including virtualization cloud service models (IaaS PaaS SaaS) and deployment strategies.
+{D0BB1F55-5D67-40C3-A8E7-9F046F71C74C},Introduction to DevOps,Learn about DevOps principles and practices including continuous integration continuous delivery automation and collaboration between development and operations teams.
+{18F0AC57-0FC2-4719-B95F-9C4B96E4DD92},Introduction to Agile Methodologies,An overview of Agile methodologies such as Scrum and Kanban focusing on iterative development collaboration and adaptive planning.

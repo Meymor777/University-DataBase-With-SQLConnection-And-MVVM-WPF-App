@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/University/University.ViewModel/obj
+/University/University.View/bin/Debug/net8.0-windows
+/University/University.View/obj
+/University/University.Model/obj
+/University/.vs/University
+/.vs/Task6New/v17
+*.json
+/University/.vs/ProjectEvaluation
+/University/University.Test/bin/Debug/net8.0
+/University/University.Test/obj
+/University/University.Test/bin/Debug/net8.0-windows
